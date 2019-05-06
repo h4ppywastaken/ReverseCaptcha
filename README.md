@@ -1,5 +1,5 @@
 # ReverseCaptcha
-Solution to a task from "Proseminar Rechnernetze und Internettechnik" at University Innsbruck (Austria).
+Simple TCP Client with DNS Lookup and various functions to solve a reverse captcha. Solution to a task from "Proseminar Rechnernetze und Internettechnik" at University Innsbruck (Austria).
 Code comments are written in German.
 Written in C (gcc Linux).
 Use meant for solving reverse Captchas (proof that user is a robot).
