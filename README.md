@@ -16,7 +16,7 @@ Execute from console.
 ## Parameters
 
 ## Contributors
-H4ppyWasTaken
+h4ppywastaken
 
 ## License
-If you intend to use any of the code included in this project you MUST credit me by linking this git repository.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
